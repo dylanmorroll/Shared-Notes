@@ -1,6 +1,6 @@
 ---
 title: Washing/re-waterproofing clothes
-updated: 2025-01-08 14:38:36Z
+updated: 2025-01-08 14:42:11Z
 created: 2021-08-18 08:23:25Z
 ---
 
@@ -56,15 +56,15 @@ Check label to see if it's synthetic or not.
 ## Down
 Uses different washing and proofing agents
 
-[How to wash and care for your down jacket or sleeping bag | Alpkit](https://alpkit.com/blogs/spotlight/how-to-wash-your-down-jacket-or-sleeping-bag)
-[How to Clean & Wash a Sleeping Bag | REI Co-op](https://www.rei.com/learn/expert-advice/how-to-clean-a-sleeping-bag.html)
-[How to wash and care for your down jacket or sleeping bag | Alpkit](https://alpkit.com/blogs/spotlight/how-to-wash-your-down-jacket-or-sleeping-bag)
+- [How to wash and care for your down jacket or sleeping bag | Alpkit](https://alpkit.com/blogs/spotlight/how-to-wash-your-down-jacket-or-sleeping-bag)
+- [How to Clean & Wash a Sleeping Bag | REI Co-op](https://www.rei.com/learn/expert-advice/how-to-clean-a-sleeping-bag.html)
+- [How to wash and care for your down jacket or sleeping bag | Alpkit](https://alpkit.com/blogs/spotlight/how-to-wash-your-down-jacket-or-sleeping-bag)
 
 ## Synthetic down
 Use Nikwax tech wash and hand wash or machine wash. Then possibly tumble dry to re-loft.
 
-[How to Clean & Wash a Sleeping Bag | REI Co-op](https://www.rei.com/learn/expert-advice/how-to-clean-a-sleeping-bag.html)
-[How to Wash & Care Synthetic Insulated Jackets | Care Tips | Alpinetrek](https://www.alpinetrek.co.uk/blog/care-instuction-synthetic-jackets/)
+- [How to Clean & Wash a Sleeping Bag | REI Co-op](https://www.rei.com/learn/expert-advice/how-to-clean-a-sleeping-bag.html)
+- [How to Wash & Care Synthetic Insulated Jackets | Care Tips | Alpinetrek](https://www.alpinetrek.co.uk/blog/care-instuction-synthetic-jackets/)
 
 Also Alpkit says synthetic is easier to wash, so I presume normal tech-wash is fine.
 
