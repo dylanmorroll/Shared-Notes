@@ -1,6 +1,6 @@
 ---
 title: Washing/re-waterproofing clothes
-updated: 2025-01-08 14:36:59Z
+updated: 2025-01-08 14:38:36Z
 created: 2021-08-18 08:23:25Z
 ---
 
@@ -34,7 +34,7 @@ Supposedly you can use a mild detergent/ neutral soap for washing. I think this 
 6. Optional: Wash with a reproofing agent ([Nikwax TX Direct]), then **rinse again**. This is necessary if the DWR has completely come off. (DWR is removed via washing with normal detergent, after washing 4-6 with neutral soap/ Tech Wash, or just after a lot of use.)
 7. Drain cycle on washing machine to get rid of excess water.
 8. Optionally dry. (The [gore tex advice][Gore-Tex washing advice] recommends tumble drying clean gear even if not straight after washing, so maybe you can line dry then tumble dry at a later point?)
-9. Heat (heat helps DWR bond, so a low tumble dry, using a hair dryer or ironing on a low setting are good options if it's not very warm out).
+9. Heat it. (Heat helps DWR bond. If it's a summer day, you can hang dry in the sun. Otherwise give it a low tumble dry, use a hair dryer - although this has never worked for me, or iron on a low setting.)
 
 Some people use the spray on stuff for a touch up between big washes.
 
