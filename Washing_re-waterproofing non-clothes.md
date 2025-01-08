@@ -1,6 +1,6 @@
 ---
 title: Washing/re-waterproofing non-clothes
-updated: 2025-01-08 13:55:32Z
+updated: 2025-01-08 14:43:07Z
 created: 2022-09-25 08:12:23Z
 ---
 
@@ -13,10 +13,10 @@ created: 2022-09-25 08:12:23Z
 6. Allow to dry fully before use.
 7. If required, apply a second coat once dry.
 
-[Footwear Repel Plus | Grangers](https://grangers.co.uk/products/footwear-repel-plus)
-[Footwear + Gear Cleaner | Grangers](https://grangers.co.uk/products/footwear-gear-cleaner)
-[Grangers Footwear Care Kit | Alpkit](https://alpkit.com/products/grangers-footwear-care-kit)
-[Cycling shoe maintenance and care | Trek Bikes](https://www.trekbikes.com/us/en_US/cycling_shoe_maintenance/)
+- [Footwear Repel Plus | Grangers](https://grangers.co.uk/products/footwear-repel-plus)
+- [Footwear + Gear Cleaner | Grangers](https://grangers.co.uk/products/footwear-gear-cleaner)
+- [Grangers Footwear Care Kit | Alpkit](https://alpkit.com/products/grangers-footwear-care-kit)
+- [Cycling shoe maintenance and care | Trek Bikes](https://www.trekbikes.com/us/en_US/cycling_shoe_maintenance/)
 
 # Tents
 - Try using sponge/ brush/ warm water
@@ -25,8 +25,8 @@ created: 2022-09-25 08:12:23Z
 
 NB: Grangers specifically mentions tents in their tech wash and reproofing products, but it's multi-purpose just like Nikwax, not tent specific.
 
-[How To Clean A Tent | Alpkit](https://alpkit.com/blogs/spotlight/tent-care-instructions)
-[How to Wash a Tent | The Summit Register | MSR Blog](https://www.msrgear.com/blog/how-to-wash-a-tent/)
+- [How To Clean A Tent | Alpkit](https://alpkit.com/blogs/spotlight/tent-care-instructions)
+- [How to Wash a Tent | The Summit Register | MSR Blog](https://www.msrgear.com/blog/how-to-wash-a-tent/)
 
 # Bivvy Bag
 - Use tech wash or warm water
