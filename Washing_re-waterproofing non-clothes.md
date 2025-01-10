@@ -1,6 +1,6 @@
 ---
 title: Washing/re-waterproofing non-clothes
-updated: 2025-01-08 14:43:07Z
+updated: 2025-01-09 09:41:08Z
 created: 2022-09-25 08:12:23Z
 ---
 
@@ -27,6 +27,7 @@ NB: Grangers specifically mentions tents in their tech wash and reproofing produ
 
 - [How To Clean A Tent | Alpkit](https://alpkit.com/blogs/spotlight/tent-care-instructions)
 - [How to Wash a Tent | The Summit Register | MSR Blog](https://www.msrgear.com/blog/how-to-wash-a-tent/)
+- [Grangers Tent and Gear Cleaner For Tents and Rucksacks | Alpkit](https://alpkit.com/products/grangers-tent-and-gear-cleaner)
 
 # Bivvy Bag
 - Use tech wash or warm water
