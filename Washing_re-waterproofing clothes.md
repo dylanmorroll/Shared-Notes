@@ -1,6 +1,6 @@
 ---
 title: Washing/re-waterproofing clothes
-updated: 2025-01-09 10:07:01Z
+updated: 2025-02-05 09:03:19Z
 created: 2021-08-18 08:23:25Z
 ---
 
@@ -107,16 +107,27 @@ Also Alpkit says synthetic is easier to wash, so I presume normal tech-wash is f
 
 [How To Choose an Insulated Jacket | Alpkit](https://alpkit.com/blogs/spotlight/guide-to-down-jackets-and-synthetic-insulation)
 
-# Wool/ merino wool
-You can get [Nikwax Wool Wash], maybe it's necessary?
-
 # Base layers
+## Synthetic
 Nikwax also sell a [BaseWash][Nikwax BaseWash].
 
 > **How does BaseWash stop the stink in synthetic base layers?**
 > By preventing the build up of body odor and growth of microbes in the fabric.
 
 [[Nikwax FAQ]]
+
+> Tech Wash and Base Wash are essentially the same, but the base wash has a sort of “conditioner” in it to make sure your base layers stay soft (so say Nikwax when I asked them a year or so ago anyway). There isn’t really any reason you couldn’t use Tech Wash though.
+
+[Nikwax – whats the difference between basewash & techwash? – Singletrack World Magazine](https://singletrackworld.com/forum/topic/nikwax-whats-the-difference-between-basewash-techwash)
+
+But I can simply use normal detergent because synthetic base layers aren't so sensitive.
+
+## Merino wool
+> [Nikwax Wool Wash] is very similar to BaseWash in increasing wicking functionality and breathability, but _it is specifically formulated for cleaning merino wool garments_. It is also amazing at nixing odors and preventing future odor build up in wool garments that are worn next-to-skin.
+
+[[How to Clean and Refresh Your Baselayers - Nikwax NA]]
+
+This could maybe be useful if I notice odours, but till then I will just use TechWash.
 
 # Active insulators
 They often have a DWR finish so use Tech Wash.
@@ -172,3 +183,6 @@ Then wash the same as a puffy jacket.
 
 [How to Clean & Wash a Sleeping Bag | REI Expert Advice]: https://www.rei.com/learn/expert-advice/how-to-clean-a-sleeping-bag.html
 - [How to Clean & Wash a Sleeping Bag | REI Expert Advice]
+
+[How to Clean and Refresh Your Baselayers - Nikwax NA]: https://nikwax.com/en-us/posts/how-to-clean-and-refresh-your-baselayers/
+- [How to Clean and Refresh Your Baselayers - Nikwax NA]
